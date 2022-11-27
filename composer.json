@@ -1,6 +1,6 @@
 {
     "name": "devgaucho/env",
-    "description": "Env - Registers environment variables from a .env file",
+    "description": "Registers environment variables from a .env file (only 31 lines of code!)",
     "type": "library",
     "license": "MIT",
     "autoload": {

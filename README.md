@@ -21,7 +21,7 @@ VAR=foo
 <?php
 require 'vendor/autoload.php';
 
-use Medoo\Env;
+use devgaucho\Env;
 
 $env_filename=__DIR__.'/.env';
 
