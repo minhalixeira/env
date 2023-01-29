@@ -5,7 +5,7 @@ Registers environment variables from a .env file (only 40 lines of code!)
 ## Installation
 
 ```bash
-composer require devgaucho/env
+composer require gaucho/env
 ```
 
 ## .env format (RAW)
@@ -21,7 +21,7 @@ VAR=foo
 <?php
 require 'vendor/autoload.php';
 
-use devgaucho\Env;
+use gaucho\Env;
 
 $env_filename=__DIR__.'/.env';
 

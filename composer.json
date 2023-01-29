@@ -1,11 +1,11 @@
 {
-    "name": "devgaucho/env",
+    "name": "gaucho/env",
     "description": "Registers environment variables from a .env file (only 40 lines of code!)",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "devgaucho\\": "src/"
+            "gaucho\\": "src/"
         }
     },
     "authors": [

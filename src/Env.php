@@ -1,6 +1,6 @@
 <?php
 
-namespace devgaucho;
+namespace gaucho;
 
 class Env
 {
