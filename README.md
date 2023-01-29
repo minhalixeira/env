@@ -1,6 +1,6 @@
 # Env
 
-Registers environment variables from a .env file (only 31 lines of code!)
+Registers environment variables from a .env file (only 40 lines of code!)
 
 ## Installation
 
