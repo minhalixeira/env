@@ -5,7 +5,7 @@ Registers environment variables from a .env file (only 40 lines of code!)
 ## Installation
 
 ```bash
-composer require vendor/env
+composer require devgaucho/env
 ```
 
 ## .env format (RAW)
